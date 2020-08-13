@@ -152,6 +152,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Lesson6.1-UFO Hangman Game.cpp" />
+    <ClCompile Include="ufo_functions.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Lesson6.1-UFO Hangman Game.h" />
+    <ClInclude Include="ufo_functions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
